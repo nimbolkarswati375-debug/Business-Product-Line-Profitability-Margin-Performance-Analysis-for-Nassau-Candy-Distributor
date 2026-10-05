@@ -1,7 +1,11 @@
 🍫 Nassau Candy Product Line Profitability Analysis
+
+
 **Project Overview
 This project analyzes the profitability of Nassau Candy's product portfolio using data analytics and visualization techniques. The objective is to identify key profit-generating products, evaluate gross margins and costs, compare division performance, analyze pricing and unit economics, and identify products requiring strategic attention.
 An interactive Streamlit dashboard was developed to help stakeholders explore profitability and make data-driven product portfolio decisions.
+
+
 🎯 Business Objectives
 - Identify the most profitable products and product lines
 - Analyze gross margin and profit per unit
